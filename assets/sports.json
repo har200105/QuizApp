@@ -1,0 +1,87 @@
+[{
+        "1": "Which Team won the first cricket T20 worldcup?",
+        "2": "Which player has played for the most No of IPL franchise?",
+        "3": "Who won the maximum sixes award for the IPL 2008 season?",
+        "4": "The distance between the popping crease and the bowling crease is:?",
+        "5": "What was the official name of the first World Cup?",
+        "6": "Which national team are called “Baggy Greens”?",
+        "7": "What was total number of matches played in the 1975 World Cup?",
+        "8": "India achieved its first Test victory against Australia in:?",
+        "9": "At which place did Sunil Gavaskar Score his 10000th run?",
+        "10": "Who has been the first hat-trick recorded in Test?"
+    },
+    {
+        "1": {
+            "a": "Srilanka",
+            "b": "West Indies",
+            "c": "India",
+            "d": "Pakistan"
+        },
+        "2": {
+            "a": "Parthiv Patel",
+            "b": "Quinton De Cock",
+            "c": "Aaron Finch",
+            "d": "Umesh Yadav"
+        },
+        "3": {
+            "a": "Chris Gayle",
+            "b": "Rohit Sharma",
+            "c": "Sachin Tendulkar",
+            "d": "Sanath Jasuriya"
+        },
+        "4": {
+            "a": "6 feet",
+            "b": "4 feet",
+            "c": "11 feet",
+            "d": "5 feet"
+        },
+        "5": {
+            "a": "ICC Cricket World Cup",
+            "b": "Prudential World Cup",
+            "c": "England Organized World cup",
+            "d": "Bat Ball Cup"
+        },
+        "6": {
+            "a": "South Africa",
+            "b": "Australia",
+            "c": "Srilanka",
+            "d": "Pakistan"
+        },
+        "7": {
+            "a": "20",
+            "b": "18",
+            "c": "15",
+            "d": "16"
+        },
+        "8": {
+            "a": "Kanpur, 1959-60",
+            "b": "Delhi 1947-48",
+            "c": "Sydney 1939-40",
+            "d": "Kolkata 1965-66"
+        },
+        "9": {
+            "a": "Kanpur",
+            "b": "Delhi",
+            "c": "Mumbai",
+            "d": "Ahemdabad"
+        },
+        "10": {
+            "a": "Cleve Llyod",
+            "b": "Lasisth Malinga",
+            "c": "Fred Spofforth",
+            "d": "Mohinder Amarthan"
+        }
+    },
+    {
+        "1": "India",
+        "2": "Aaron Finch",
+        "3": "Sanath Jasuriya",
+        "4": "4 feet",
+        "5": "Prudential World Cup",
+        "6": "Australia",
+        "7": "15",
+        "8": "Kanpur, 1959-60",
+        "9": "Ahemdabad",
+        "10": "Fred Spofforth"
+    }
+]

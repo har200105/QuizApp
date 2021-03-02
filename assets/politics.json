@@ -1,0 +1,81 @@
+[{
+        "1": "Who was the Education Minister of India for the most shorter period of time ?",
+        "2": "Who is currently the leader of opposition in Lokshaba in India ? ",
+        "3": "From Which City of India Rahul Gandhi is the MP in Lokshaba ?",
+        "4": "Which among this State BJP has not ruled from Past 21 years?",
+        "5": "Who is known as the Chankya of Indian Politics From November 2019 ?",
+        "6": "Which Indian Politician in Parliament Once Told `In democracy two fools and defeat one powerful person` ",
+        "7": "Who is/was the most long term CM of Any state in India?"
+    },
+    {
+        "1": {
+            "a": "Prakash Javdekar",
+            "b": "Ramesh Pokhrial",
+            "c": "Atal Vihari Bajpayee",
+            "d": "Subramanyam Swamy"
+        },
+        "2": {
+            "a": "Rahul Gandhi",
+            "b": "Gaurav gogoi",
+            "c": "Adhir Ranjan Choudary",
+            "d": "Sonia Gandhi"
+        },
+        "3": {
+            "a": "Amethi",
+            "b": "Raibareilly",
+            "c": "Waynad",
+            "d": "Ludhiana"
+        },
+        "4": {
+            "a": "Delhi",
+            "b": "Rajasthan",
+            "c": "Jharkhand",
+            "d": "Chattisgarh"
+        },
+        "5": {
+            "a": "Amit Shah",
+            "b": "Rajnath Singh",
+            "c": "Sharad Pawar",
+            "d": "Uddhav Thackrey"
+        },
+        "6": {
+            "a": "Rajiv Gandhi",
+            "b": "Narendra Modi",
+            "c": "Lal bahadur Shastri",
+            "d": "Atal Vihari Bajpayee"
+        },
+        "7": {
+            "a": "Mamta Banerjee",
+            "b": "Jyoti Basu",
+            "c": "Narendra Modi",
+            "d": "Naveen Patnaik"
+        },
+        "8": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        },
+        "9": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "10": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        }
+    },
+    {
+        "1": "Atal Vihari Bajpayee",
+        "2": "Adhir Ranjan Choudary",
+        "3": "Waynad",
+        "4": "Delhi",
+        "5": "Sharad Pawar",
+        "6": "Atal Vihari Bajpayee",
+        "7": "Jyoti Basu"
+    }
+]
